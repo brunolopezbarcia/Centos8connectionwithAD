@@ -102,4 +102,4 @@ Como podemos ver al hacer un id nos dice en los grupos del dominio prueba en los
 Con los usuarios del dominio tambien podemos loguearnos en la interfaz de administracion web integrada con CentOs(_Cockpit_)
 
 
-![User prueba2 logged on cockpit](./img/cockpit.png "San Juan Mountains")
+![User prueba2 logged on cockpit](/img/cockpit.png "San Juan Mountains")
