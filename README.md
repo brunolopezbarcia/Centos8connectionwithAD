@@ -1,4 +1,4 @@
-# CentOs 8 with AD connection / Conexion de Centos 8 con AD
+# Centos 8 connection with AD / Conexion de Centos 8 con AD
 Union de un CentOs 8 a un dominio de Active Directory y su posterior logueo con usuarios del dominio.
 Union of a CentOs 8 to an Active Directory domain and its subsequent login with domain users.
 
