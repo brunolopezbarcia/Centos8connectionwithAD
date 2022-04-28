@@ -45,7 +45,7 @@ udp_preference_limit = 0
   default = FILE:/var/log/krb5lib.log
 ```
 
-## Configuratio File /etc/sssd/sssd.conf
+## Configuration File /etc/sssd/sssd.conf
 
 ```bash
 [sssd]
