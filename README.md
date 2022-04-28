@@ -1,6 +1,6 @@
-# centostoad
-Union de un CentOs 8 a un dominio de Active Directory y su posterior logueo con usuarios del dominio
-
+# Conexion CentOs 8 with AD
+Union de un CentOs 8 a un dominio de Active Directory y su posterior logueo con usuarios del dominio.
+Union of a CentOs 8 to an Active Directory domain and its subsequent login with domain users.
 
 [Guia Configuracion Español](https://github.com/brunolopezbarcia/centostoad/blob/main/guiadeconfiguracion.md)
 
